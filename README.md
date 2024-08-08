@@ -1,4 +1,14 @@
-## Hi there 👋
+### 👋 Hello, I'm Thommie!
+Frontend Developer | Backend Developer | Full Stack Developer\
+📍 Based in Sweden | 🌍 Open to Remote Opportunities
+
+#
+<br />
+
+- 🔭 I’m currently working on updating/improving old projects to higher standards.
+- 🌱 I’m currently learning PHP, Laravel, NoSQL-databases for my next project.
+- 💬 Ask me about anything, I'm happy to help!
+- ⚡ Fun fact: Living mostly of books, films and music.
 
 <!--
 **thommie-wallin/thommie-wallin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
